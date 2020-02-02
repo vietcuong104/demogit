@@ -7,4 +7,7 @@ print(df.head())
 
 //anh nha o dau the
 //anh nha o B3 KL
+<<<<<<< HEAD
 // lam sao bay h
+=======
+
